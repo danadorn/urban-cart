@@ -6,10 +6,12 @@ import pandas as pd
 
 pd.set_option("display.width", 120)
 
-DB_PATH = "ecommerce.db"
-LEGACY_CSV = "legacy_customers_export.csv"
-CATALOG_CSV = "product_catalog_2024.csv"
-OUT_DIR = Path("data/processed")
+DATA_DIR = Path("data")
+RAW_DIR = DATA_DIR / "raw"
+DB_PATH = RAW_DIR / "ecommerce.db"
+LEGACY_CSV = RAW_DIR / "legacy_customers_export.csv"
+CATALOG_CSV = RAW_DIR / "product_catalog_2024.csv"
+OUT_DIR = DATA_DIR / "processed"
 
 
 def log(msg: str, log_lines: list[str]) -> None:

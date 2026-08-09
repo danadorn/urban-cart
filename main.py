@@ -53,7 +53,7 @@ def main() -> None:
         if args.open:
             open_figures(figures)
     else:
-        print(f"\nNo figure files found in {FIG_DIR}. Make sure phase4_visuals.py completed successfully.")
+        print(f"\nNo figure files found in {FIG_DIR}. Make sure phase 4 completed successfully.")
 
 
 if __name__ == "__main__":

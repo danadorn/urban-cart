@@ -8,25 +8,36 @@ routines, and business visualizations.
 ## Repository Structure
 
 ```
-queries.sql                  # Phase 1: all 10 SQL queries, run against ecommerce.db
-phase2_cleaning.py           # Phase 2: pandas cleaning & integration of DB + 2 CSVs
-phase3_numpy.py              # Phase 3: RFM, cosine similarity, regression, Monte Carlo (raw NumPy)
-phase4_visuals.py            # Phase 4: 8 charts answering the business questions
+data/raw/                    # Raw inputs: SQLite DB and external CSVs
+    ecommerce.db
+    legacy_customers_export.csv
+    product_catalog_2024.csv
+pipeline/                    # Python pipeline implementation and reusable stages
+    __init__.py
+    phase2.py
+    phase3.py
+    phase4.py
+main.py                      # Entrypoint to run phases 2-4 sequentially
+phase1_queries.sql           # Phase 1: all 10 SQL queries, run against ecommerce.db
 analysis.ipynb               # All of the above combined into one notebook
 data/processed/              # Cleaned, saved output tables (csv)
 figures/                     # Generated charts (png)
-report.docx / report.pdf     # Full 30-page written report
-executive_summary.pdf/docx   # 1-page summary for non-technical leadership
-README_DATA.md               # Original data dictionary (provided with raw files)
+reports/                     # Final written deliverables (PDF/DOCX)
 ```
 
 ## Reproducing the Pipeline
 
 ```bash
-pip install pandas numpy matplotlib seaborn --break-system-packages
-python phase2_cleaning.py   # reads raw files, writes data/processed/*.csv
-python phase3_numpy.py      # reads data/processed/, writes RFM/similarity/regression/Monte Carlo outputs
-python phase4_visuals.py    # reads data/processed/, writes figures/*.png
+pip install -r requirements.txt
+python main.py             # runs pipeline.phase2 -> pipeline.phase3 -> pipeline.phase4
+```
+
+If you want to run a phase individually:
+
+```bash
+python pipeline/phase2.py
+python pipeline/phase3.py
+python pipeline/phase4.py
 ```
 
 Each stage only reads the previous stage's saved output, so any stage can be re-run in
