@@ -1,0 +1,15 @@
+Q1: 'Champions' segment generates the most revenue ($5,383,614); average age in that segment is 45.2.
+
+Q2: Revenue shows a repeating monthly pattern; month 11 is on average the strongest calendar month across years ($444,805 avg).
+
+Q3: 'Books & Media' has the highest effective margin (78.0%) after discounts and returns.
+
+Q4: Correlation between a customer's average rating given and their order count is r=0.04 — a weak relationship, so rating alone is a limited predictor of repeat purchase.
+
+Q5: Germany / tablet shows the highest engagement-to-purchase conversion (99.6%).
+
+Q6: Linear trend forecasts next 2 months at $563,757 and $574,162, +/- $114,817 (95% CI).
+
+Q7: Products 9, 105, 127, 300, 207 show the highest stockout risk; recommended reorder points: 9->27u, 105->25u, 127->24u, 300->25u, 207->24u
+
+Q8: Ignoring the negative-quantity return rows (as a naive analysis would) overstates revenue by 2.97% ($13,365,187 gross vs $12,968,797 net) — a material difference for any category-profitability conclusion.

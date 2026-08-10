@@ -1,0 +1,13 @@
+[LOAD] customers=(2500, 8), products=(300, 6), orders=(9000, 5), order_items=(20362, 6), reviews=(4000, 6), web_sessions=(12000, 6)
+[SQL->pandas] loaded 4 Phase 1 queries directly into DataFrames: Q1 category revenue (6, 4), Q2 top-20 customers (20, 5), Q4 return rate by category (6, 4), Q9 payment mix by country (45, 4)
+[order_items] removed 186 exact-duplicate rows (0.91%); 20362 -> 20176
+[order_items] 577 return line-items flagged (2.86% of lines)
+[cross-check] overall return rate: SQL (raw table) = 0.0286, pandas (deduped table) = 0.0286 (small gap expected: SQL query ran on raw order_items before dedup)
+[reviews] 41 rows with out-of-range rating (values found: [np.int64(-1), np.int64(0), np.int64(6)]) -> dropped. Policy: a rating outside 1-5 is a data-entry error, not a real observation, and cannot be reasonably imputed, so these rows are dropped rather than clamped (clamping -1->1 or 6->5 would fabricate agreement/disagreement that wasn't given).
+[reviews] 41 rows dropped for bad rating; 828 of remaining 3959 rows have missing review_text (20.9%), flagged not dropped
+[products] IQR bounds on unit_price: [-388.48, 1160.36] (Q1=192.33, Q3=579.54, IQR=387.21); 3 outliers flagged (1.00%). Policy: 1.5*IQR is the standard Tukey fence and matches the README's description of these as rare data-entry errors rather than a genuine luxury tier; flagged rows are excluded from price-sensitive aggregates (e.g. average price) but retained in the table so order_items referencing them still resolve.
+[customers] city missing -> 'Unknown' (63 rows); age missing -> flagged, left NaN (139 rows), NOT imputed to avoid biasing age-based segments; gender missing -> 'Not specified' (115 rows)
+[legacy_customers] 1427 raw rows -> dropped 1 junk/test rows, 56 missing emails retained (flagged via NaN), 0 dates failed to parse across 4 formats (YYYY-MM-DD, DD-Mon-YYYY, Month DD, YYYY, MM/DD/YYYY), removed 48 exact email duplicates + 32 fuzzy name+city duplicates (keeping most recent record) -> 1345 clean rows
+[product_catalog] DB has 300 products, CSV has 267 SKUs; 255 overlap, 45 DB-only (no supplier record), 12 supplier-only SKUs not in the database at all (these represent products UrbanCart could source but has never sold -- kept in a separate table, not merged into products, since they have no order/review history to analyze)
+[reshape] category x month revenue pivot table: (6, 36)
+[time series] weekly active customers series: 158 weeks, range 2-106

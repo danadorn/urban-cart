@@ -1,0 +1,301 @@
+product_id,name,category,subcategory,unit_price,cost,price_outlier,catalog_price,catalog_cost,stock_units,in_supplier_catalog
+1,Black Camera,Electronics,Cameras,433.54,224.24,False,440.6266121051296,224.24,270.0,True
+2,Maintain Laptop,Electronics,Laptops,807.37,351.48,False,794.8056489665487,351.48,16.0,True
+3,Start Accessorie,Electronics,Accessories,978.72,367.95,False,1009.6660840308892,367.95,91.0,True
+4,Movement Headphone,Electronics,Headphones,17.97,12.57,False,,,,False
+5,Yeah Smartphone,Electronics,Smartphones,503.34,180.1,False,524.449133438593,180.1,161.0,True
+6,Important Laptop,Electronics,Laptops,531.19,192.72,False,,,,False
+7,Beyond Accessorie,Electronics,Accessories,357.42,167.06,False,359.0951031936047,167.06,104.0,True
+8,Plant Smartphone,Electronics,Smartphones,295.82,122.24,False,289.99422677459245,122.24,489.0,True
+9,Right Laptop,Electronics,Laptops,66.57,26.82,False,67.34849674358524,26.82,5.0,True
+10,After Laptop,Electronics,Laptops,309.24,235.47,False,306.0290641122288,235.47,474.0,True
+11,Change Smartphone,Electronics,Smartphones,216.27,129.85,False,218.16398756169224,129.85,46.0,True
+12,Get Smartphone,Electronics,Smartphones,156.75,77.9,False,163.4162311099779,77.9,238.0,True
+13,Support Headphone,Electronics,Headphones,152.16,71.45,False,,,,False
+14,Find Headphone,Electronics,Headphones,90.93,61.01,False,90.07089876314174,61.01,12.0,True
+15,Sea Headphone,Electronics,Headphones,536.46,192.64,False,535.3471062451271,192.64,50.0,True
+16,Yes Smartphone,Electronics,Smartphones,245.66,101.09,False,,,,False
+17,Light Laptop,Electronics,Laptops,953.82,375.23,False,,,,False
+18,Rest Camera,Electronics,Cameras,35.67,20.03,False,36.7172909851647,20.03,423.0,True
+19,Improve Smartphone,Electronics,Smartphones,727.02,269.65,False,750.2348585350576,269.65,23.0,True
+20,Arm Accessorie,Electronics,Accessories,548.49,335.04,False,545.4342392825207,335.04,182.0,True
+21,Right Camera,Electronics,Cameras,614.24,247.11,False,611.6941328170767,247.11,216.0,True
+22,Scientist Smartphone,Electronics,Smartphones,205.71,98.81,False,215.6565756530213,98.81,461.0,True
+23,Cost Headphone,Electronics,Headphones,235.35,174.8,False,231.54836356900927,174.8,39.0,True
+24,Concern Headphone,Electronics,Headphones,696.97,282.68,False,731.2565638670629,282.68,55.0,True
+25,Protect Headphone,Electronics,Headphones,282.92,149.7,False,284.6366520186707,149.7,132.0,True
+26,Agent Laptop,Electronics,Laptops,259.69,123.49,False,268.03345970858004,123.49,364.0,True
+27,Into Laptop,Electronics,Laptops,686.85,342.59,False,,,,False
+28,Series Accessorie,Electronics,Accessories,749.19,279.01,False,745.7388174284612,279.01,402.0,True
+29,Pressure Accessorie,Electronics,Accessories,103.82,57.5,False,103.43287935896892,57.5,251.0,True
+30,Hospital Laptop,Electronics,Laptops,477.17,214.5,False,497.31639655438255,214.5,118.0,True
+31,Wide Laptop,Electronics,Laptops,976.57,373.86,False,970.2493794774008,373.86,430.0,True
+32,East Smartphone,Electronics,Smartphones,338.4,127.28,False,,,,False
+33,Forward Accessorie,Electronics,Accessories,217.73,78.93,False,216.28870045064545,78.93,298.0,True
+34,Television Laptop,Electronics,Laptops,399.8,208.52,False,402.14689590776015,208.52,335.0,True
+35,Wide Camera,Electronics,Cameras,425.48,268.86,False,425.77044060633455,268.86,358.0,True
+36,Work Smartphone,Electronics,Smartphones,749.87,321.49,False,763.1303290762097,321.49,393.0,True
+37,Executive Laptop,Electronics,Laptops,608.8,285.91,False,601.2149910163138,285.91,100.0,True
+38,Say Camera,Electronics,Cameras,364.99,233.95,False,374.73094548726,233.95,94.0,True
+39,Yeah Laptop,Electronics,Laptops,412.64,256.52,False,415.5124779192628,256.52,428.0,True
+40,Because Laptop,Electronics,Laptops,171.89,75.68,False,170.74616986593605,75.68,309.0,True
+41,Rest Smartphone,Electronics,Smartphones,376.48,158.48,False,389.33895657968543,158.48,399.0,True
+42,Cost Camera,Electronics,Cameras,328.75,216.35,False,328.95541226213817,216.35,180.0,True
+43,A Laptop,Electronics,Laptops,97.72,52.4,False,,,,False
+44,Walk Camera,Electronics,Cameras,6.81,4.3,False,6.958194713031108,4.3,196.0,True
+45,Beautiful Camera,Electronics,Cameras,511.39,183.54,False,,,,False
+46,Reflect Laptop,Electronics,Laptops,397.56,205.91,False,395.9490443178862,205.91,415.0,True
+47,Central Camera,Electronics,Cameras,513.39,252.36,False,520.2695277995394,252.36,348.0,True
+48,Court Camera,Electronics,Cameras,231.62,156.59,False,229.26053525469325,156.59,186.0,True
+49,Left Laptop,Electronics,Laptops,850.7,304.77,False,,,,False
+50,Wear Headphone,Electronics,Headphones,240.1,113.11,False,247.6436330373156,113.11,278.0,True
+51,Former Cookware,Home & Kitchen,Cookware,863.34,370.52,False,887.9242480968924,370.52,332.0,True
+52,Still Cookware,Home & Kitchen,Cookware,12.48,6.91,False,12.745015582739368,6.91,248.0,True
+53,Student Decor,Home & Kitchen,Decor,192.38,115.82,False,198.3746522103789,115.82,369.0,True
+54,We Decor,Home & Kitchen,Decor,679.71,371.36,False,680.0610502538397,371.36,466.0,True
+55,Others Cookware,Home & Kitchen,Cookware,395.52,222.82,False,400.6779969734537,222.82,207.0,True
+56,Heavy Appliance,Home & Kitchen,Appliances,186.07,83.65,False,184.5346293477425,83.65,120.0,True
+57,Try Cookware,Home & Kitchen,Cookware,510.39,229.78,False,517.499242355929,229.78,497.0,True
+58,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45,False,,,,False
+59,Action Furniture,Home & Kitchen,Furniture,287.12,185.42,False,292.19594873705955,185.42,69.0,True
+60,Coach Furniture,Home & Kitchen,Furniture,148.68,113.95,False,154.78912235542325,113.95,375.0,True
+61,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12,False,,,,False
+62,Key Furniture,Home & Kitchen,Furniture,244.7,95.18,False,251.0214299943315,95.18,411.0,True
+63,Song Appliance,Home & Kitchen,Appliances,430.39,178.68,False,432.9974634332281,178.68,130.0,True
+64,Task Appliance,Home & Kitchen,Appliances,29.71,12.14,False,29.661220789760005,12.14,159.0,True
+65,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35,False,,,,False
+66,Wide Cookware,Home & Kitchen,Cookware,447.18,201.12,False,455.470739984241,201.12,170.0,True
+67,Apply Furniture,Home & Kitchen,Furniture,355.8,151.07,False,362.94227289600695,151.07,447.0,True
+68,Bar Appliance,Home & Kitchen,Appliances,133.13,69.85,False,139.01289199604528,69.85,229.0,True
+69,Front Decor,Home & Kitchen,Decor,274.11,163.83,False,280.4666180714609,163.83,363.0,True
+70,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64,False,,,,False
+71,Green Furniture,Home & Kitchen,Furniture,362.18,259.25,False,,,,False
+72,Difficult Cookware,Home & Kitchen,Cookware,286.08,157.38,False,295.7757315238011,157.38,142.0,True
+73,Travel Appliance,Home & Kitchen,Appliances,346.78,176.21,False,349.90852466336054,176.21,485.0,True
+74,Serve Appliance,Home & Kitchen,Appliances,171.2,104.21,False,171.7813075535283,104.21,434.0,True
+75,Wonder Decor,Home & Kitchen,Decor,299.66,192.98,False,296.4010966670722,192.98,38.0,True
+76,Cover Furniture,Home & Kitchen,Furniture,938.11,338.82,False,982.7733586489064,338.82,21.0,True
+77,What Furniture,Home & Kitchen,Furniture,103.53,38.72,False,105.50216919566688,38.72,88.0,True
+78,Unit Cookware,Home & Kitchen,Cookware,213.82,102.41,False,224.368375566328,102.41,439.0,True
+79,Hand Furniture,Home & Kitchen,Furniture,308.93,119.38,False,318.46620831987434,119.38,492.0,True
+80,Success Furniture,Home & Kitchen,Furniture,166.05,93.95,False,164.4073827994286,93.95,317.0,True
+81,Real Furniture,Home & Kitchen,Furniture,779.01,349.11,False,816.5676178901372,349.11,401.0,True
+82,Rich Furniture,Home & Kitchen,Furniture,235.49,117.43,False,246.77164247964456,117.43,97.0,True
+83,Rich Furniture,Home & Kitchen,Furniture,243.1,96.79,False,247.6287633509728,96.79,422.0,True
+84,Per Cookware,Home & Kitchen,Cookware,43.2,29.75,False,44.592836597019016,29.75,439.0,True
+85,Event Furniture,Home & Kitchen,Furniture,530.7,214.98,False,528.7643611140095,214.98,39.0,True
+86,Less Decor,Home & Kitchen,Decor,443.6,290.11,False,442.4897787194704,290.11,263.0,True
+87,Property Furniture,Home & Kitchen,Furniture,564.0,315.4,False,554.9187802522264,315.4,454.0,True
+88,Voice Decor,Home & Kitchen,Decor,275.21,206.76,False,281.3733386638156,206.76,308.0,True
+89,Prepare Cookware,Home & Kitchen,Cookware,247.06,159.34,False,256.97628023034093,159.34,78.0,True
+90,Group Furniture,Home & Kitchen,Furniture,219.22,99.04,False,220.2349769736369,99.04,393.0,True
+91,Almost Decor,Home & Kitchen,Decor,369.86,186.57,False,366.32092585602345,186.57,268.0,True
+92,Left Furniture,Home & Kitchen,Furniture,148.78,67.35,False,152.0647821174712,67.35,449.0,True
+93,Fear Appliance,Home & Kitchen,Appliances,98.57,56.95,False,98.58708895666076,56.95,398.0,True
+94,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98,False,,,,False
+95,They Appliance,Home & Kitchen,Appliances,711.68,355.85,False,735.5585468647998,355.85,154.0,True
+96,Mind Decor,Home & Kitchen,Decor,682.77,315.19,False,,,,False
+97,Black Appliance,Home & Kitchen,Appliances,628.48,301.4,False,648.7542798344923,301.4,465.0,True
+98,Southern Appliance,Home & Kitchen,Appliances,71.96,53.12,False,72.21614071149045,53.12,57.0,True
+99,Level Decor,Home & Kitchen,Decor,496.87,337.25,False,488.0001470836773,337.25,213.0,True
+100,Sea Appliance,Home & Kitchen,Appliances,283.25,152.25,False,295.9245530525444,152.25,350.0,True
+101,Cut Women,Apparel,Women,488.42,300.87,False,484.7227077753743,300.87,411.0,True
+102,Three Women,Apparel,Women,396.98,181.63,False,411.0003644043425,181.63,325.0,True
+103,Carry Women,Apparel,Women,456.96,260.68,False,479.6784875414062,260.68,166.0,True
+104,Major Men,Apparel,Men,957.31,360.5,False,960.380124442678,360.5,498.0,True
+105,Physical Footwear,Apparel,Footwear,375.87,188.14,False,393.6694369640226,188.14,4.0,True
+106,Oil Footwear,Apparel,Footwear,150.04,54.77,False,148.5462138670252,54.77,473.0,True
+107,Appear Women,Apparel,Women,963.92,359.12,False,,,,False
+108,Word Men,Apparel,Men,378.75,142.17,False,386.5048031085589,142.17,49.0,True
+109,Health Footwear,Apparel,Footwear,59.23,34.02,False,,,,False
+110,Section Footwear,Apparel,Footwear,52.92,19.09,False,54.25467171996266,19.09,73.0,True
+111,Situation Men,Apparel,Men,227.31,142.94,False,227.577743153858,142.94,311.0,True
+112,Performance Women,Apparel,Women,10.73,7.39,False,10.917228097911892,7.39,378.0,True
+113,Represent Kid,Apparel,Kids,55.28,26.78,False,56.01481192242025,26.78,357.0,True
+114,History Kid,Apparel,Kids,23.97,12.58,False,23.52326971226557,12.58,220.0,True
+115,Quickly Footwear,Apparel,Footwear,251.88,140.73,False,261.5945387221016,140.73,80.0,True
+116,Ahead Men,Apparel,Men,862.37,353.76,False,852.3685930920979,353.76,314.0,True
+117,White Men,Apparel,Men,567.69,267.53,False,561.7868954380748,267.53,314.0,True
+118,During Men,Apparel,Men,611.17,399.46,False,639.842186637484,399.46,82.0,True
+119,Reflect Kid,Apparel,Kids,519.85,265.26,False,529.6271337529269,265.26,268.0,True
+120,Society Kid,Apparel,Kids,146.96,60.15,False,151.6725412917945,60.15,220.0,True
+121,Themselves Footwear,Apparel,Footwear,183.38,112.48,False,,,,False
+122,Attorney Men,Apparel,Men,607.34,381.56,False,,,,False
+123,Anything Footwear,Apparel,Footwear,840.94,320.39,False,859.7605111129426,320.39,384.0,True
+124,Act Kid,Apparel,Kids,640.23,396.2,False,,,,False
+125,Increase Women,Apparel,Women,584.13,343.96,False,597.040016626138,343.96,276.0,True
+126,Field Men,Apparel,Men,240.49,89.98,False,245.6379186986215,89.98,178.0,True
+127,Research Footwear,Apparel,Footwear,111.4,48.35,False,115.42295145750036,48.35,6.0,True
+128,Pretty Kid,Apparel,Kids,686.4,247.87,False,702.350455696092,247.87,296.0,True
+129,Direction Kid,Apparel,Kids,492.47,232.09,False,,,,False
+130,Fly Kid,Apparel,Kids,454.11,253.72,False,458.64843614537045,253.72,154.0,True
+131,Spring Kid,Apparel,Kids,797.13,323.06,False,792.9797955883354,323.06,128.0,True
+132,Set Men,Apparel,Men,299.38,175.25,False,298.52907863413094,175.25,306.0,True
+133,Actually Kid,Apparel,Kids,479.79,201.05,False,492.3708139079612,201.05,284.0,True
+134,Democrat Kid,Apparel,Kids,541.79,321.26,False,565.7704621276284,321.26,408.0,True
+135,Road Women,Apparel,Women,550.83,338.26,False,562.8520295500844,338.26,106.0,True
+136,Watch Footwear,Apparel,Footwear,974.39,362.35,False,963.632917671544,362.35,458.0,True
+137,Particular Kid,Apparel,Kids,316.92,166.82,False,314.8617833316524,166.82,259.0,True
+138,By Kid,Apparel,Kids,54.35,35.21,False,55.88621138945479,35.21,457.0,True
+139,About Men,Apparel,Men,835.42,310.66,False,859.9126807242593,310.66,249.0,True
+140,Fall Footwear,Apparel,Footwear,500.02,326.58,False,,,,False
+141,Happen Men,Apparel,Men,251.45,135.51,False,248.8757205785161,135.51,203.0,True
+142,Card Footwear,Apparel,Footwear,717.32,352.01,False,741.6584388018938,352.01,126.0,True
+143,Writer Women,Apparel,Women,421.93,163.91,False,422.0365073529193,163.91,253.0,True
+144,Almost Women,Apparel,Women,299.76,136.44,False,306.7918371628602,136.44,183.0,True
+145,Unit Men,Apparel,Men,61.15,42.96,False,61.252017763671056,42.96,435.0,True
+146,Difficult Women,Apparel,Women,443.54,217.53,False,463.1309501017856,217.53,128.0,True
+147,Later Women,Apparel,Women,517.03,396.76,False,518.5255402452701,396.76,388.0,True
+148,Answer Women,Apparel,Women,304.48,118.69,False,305.33942446605425,118.69,269.0,True
+149,Move Kid,Apparel,Kids,382.77,267.43,False,384.0998255335227,267.43,447.0,True
+150,Population Kid,Apparel,Kids,182.12,134.07,False,,,,False
+151,Say Fitnes,Sports & Outdoors,Fitness,625.19,246.9,False,632.8354400824159,246.9,383.0,True
+152,Soon Camping,Sports & Outdoors,Camping,910.86,359.13,False,894.9195914362084,359.13,160.0,True
+153,Feel Cycling,Sports & Outdoors,Cycling,530.38,238.57,False,535.4187334190595,238.57,182.0,True
+154,Attack Cycling,Sports & Outdoors,Cycling,115.68,58.03,False,116.37239739069004,58.03,334.0,True
+155,Away Camping,Sports & Outdoors,Camping,607.36,258.46,False,630.5594498881452,258.46,218.0,True
+156,Occur Camping,Sports & Outdoors,Camping,372.8,276.55,False,366.27677137880187,276.55,266.0,True
+157,First Camping,Sports & Outdoors,Camping,701.5,278.88,False,697.4723824949853,278.88,452.0,True
+158,Produce Cycling,Sports & Outdoors,Cycling,282.03,119.58,False,280.5854828015209,119.58,331.0,True
+159,Positive Camping,Sports & Outdoors,Camping,818.3,318.32,False,856.9355005765342,318.32,71.0,True
+160,Where Camping,Sports & Outdoors,Camping,150.1,98.55,False,147.4159252581296,98.55,356.0,True
+161,Between Fitnes,Sports & Outdoors,Fitness,68.77,26.32,False,69.17882329602232,26.32,329.0,True
+162,Do Team Sport,Sports & Outdoors,Team Sports,126.53,53.07,False,124.84168004176558,53.07,307.0,True
+163,Ready Cycling,Sports & Outdoors,Cycling,598.68,276.03,False,603.0760212679575,276.03,408.0,True
+164,Great Team Sport,Sports & Outdoors,Team Sports,446.58,165.72,False,467.6689038071693,165.72,443.0,True
+165,Up Cycling,Sports & Outdoors,Cycling,605.76,375.16,False,611.6955610184156,375.16,271.0,True
+166,Power Fitnes,Sports & Outdoors,Fitness,278.38,147.59,False,289.63890512964326,147.59,212.0,True
+167,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46,False,,,,False
+168,Wait Camping,Sports & Outdoors,Camping,649.6,325.57,False,672.1462586144397,325.57,140.0,True
+169,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5,False,,,,False
+170,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39,False,,,,False
+171,Her Camping,Sports & Outdoors,Camping,14.73,5.95,False,,,,False
+172,Half Team Sport,Sports & Outdoors,Team Sports,104.56,40.01,False,105.54510841405352,40.01,91.0,True
+173,Soon Fitnes,Sports & Outdoors,Fitness,587.7,354.03,False,600.8140568671905,354.03,495.0,True
+174,Social Cycling,Sports & Outdoors,Cycling,864.84,363.2,False,871.839738864552,363.2,37.0,True
+175,Either Fitnes,Sports & Outdoors,Fitness,600.57,253.72,False,623.7110185861208,253.72,41.0,True
+176,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86,False,,,,False
+177,Hour Camping,Sports & Outdoors,Camping,156.12,86.79,False,157.92039841042083,86.79,394.0,True
+178,Rich Cycling,Sports & Outdoors,Cycling,563.12,213.76,False,567.6808337961094,213.76,74.0,True
+179,Our Camping,Sports & Outdoors,Camping,478.65,175.67,False,487.1382293959962,175.67,50.0,True
+180,Grow Team Sport,Sports & Outdoors,Team Sports,843.45,385.76,False,867.7334169108468,385.76,454.0,True
+181,Choice Team Sport,Sports & Outdoors,Team Sports,37.18,20.67,False,37.2778558997043,20.67,38.0,True
+182,Answer Fitnes,Sports & Outdoors,Fitness,500.91,191.38,False,492.0578754801149,191.38,457.0,True
+183,High Camping,Sports & Outdoors,Camping,942.96,369.47,False,,,,False
+184,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21,False,,,,False
+185,Avoid Camping,Sports & Outdoors,Camping,582.19,268.37,False,588.785342414385,268.37,199.0,True
+186,Along Fitnes,Sports & Outdoors,Fitness,290.81,213.7,False,286.61271639621043,213.7,364.0,True
+187,Artist Team Sport,Sports & Outdoors,Team Sports,127.57,97.88,False,126.19046947792884,97.88,227.0,True
+188,Involve Fitnes,Sports & Outdoors,Fitness,550.0,321.55,False,540.8990538396591,321.55,129.0,True
+189,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49,False,,,,False
+190,Over Cycling,Sports & Outdoors,Cycling,707.42,308.25,False,702.2435914252166,308.25,216.0,True
+191,Yeah Camping,Sports & Outdoors,Camping,457.7,215.03,False,476.2062035027295,215.03,347.0,True
+192,Participant Camping,Sports & Outdoors,Camping,697.79,370.47,False,698.5602671294922,370.47,345.0,True
+193,Add Camping,Sports & Outdoors,Camping,351.11,219.39,False,361.5462870605007,219.39,106.0,True
+194,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52,False,,,,False
+195,After Fitnes,Sports & Outdoors,Fitness,132.26,54.56,False,130.56763990631103,54.56,340.0,True
+196,Information Cycling,Sports & Outdoors,Cycling,518.75,269.71,False,544.18926264758,269.71,30.0,True
+197,Own Camping,Sports & Outdoors,Camping,538.79,292.48,False,552.9192533785797,292.48,74.0,True
+198,Later Cycling,Sports & Outdoors,Cycling,266.02,125.87,False,265.6721168053476,125.87,134.0,True
+199,Yes Fitnes,Sports & Outdoors,Fitness,51.0,33.26,False,53.31193253750392,33.26,62.0,True
+200,White Fitnes,Sports & Outdoors,Fitness,533.81,381.57,False,536.4790788867238,381.57,55.0,True
+201,When Supplement,Beauty & Health,Supplements,567.68,386.16,False,589.8946433368567,386.16,52.0,True
+202,Thank Skincare,Beauty & Health,Skincare,514.85,201.68,False,528.8838586489712,201.68,75.0,True
+203,Officer Skincare,Beauty & Health,Skincare,431.09,194.05,False,,,,False
+204,Artist Supplement,Beauty & Health,Supplements,578.66,316.23,False,579.5108485714196,316.23,181.0,True
+205,Back Haircare,Beauty & Health,Haircare,367.74,219.49,False,363.9341342220557,219.49,401.0,True
+206,Office Skincare,Beauty & Health,Skincare,612.54,396.87,False,617.8947183818207,396.87,394.0,True
+207,Impact Haircare,Beauty & Health,Haircare,518.71,193.04,False,518.3505357718425,193.04,9.0,True
+208,Series Skincare,Beauty & Health,Skincare,260.07,138.05,False,258.1701289256751,138.05,61.0,True
+209,Leg Skincare,Beauty & Health,Skincare,797.01,323.49,False,816.3223286573551,323.49,140.0,True
+210,Me Haircare,Beauty & Health,Haircare,177.09,78.49,False,185.67918242930813,78.49,234.0,True
+211,Everyone Skincare,Beauty & Health,Skincare,943.9,390.53,False,930.3826516057624,390.53,235.0,True
+212,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31,False,,,,False
+213,Star Supplement,Beauty & Health,Supplements,111.83,82.05,False,113.99777709858668,82.05,359.0,True
+214,Safe Skincare,Beauty & Health,Skincare,304.46,229.66,False,307.43213467492745,229.66,496.0,True
+215,Want Supplement,Beauty & Health,Supplements,501.1,260.54,False,,,,False
+216,Effort Supplement,Beauty & Health,Supplements,492.92,345.22,False,513.4723991647747,345.22,11.0,True
+217,Measure Skincare,Beauty & Health,Skincare,479.18,238.38,False,486.45974180922354,238.38,90.0,True
+218,Month Supplement,Beauty & Health,Supplements,127.17,50.54,False,128.2295218620424,50.54,455.0,True
+219,Example Supplement,Beauty & Health,Supplements,211.99,100.68,False,212.35217180601285,100.68,283.0,True
+220,Run Skincare,Beauty & Health,Skincare,475.38,343.89,False,471.1522630385807,343.89,207.0,True
+221,Response Haircare,Beauty & Health,Haircare,704.75,279.27,False,738.521701400346,279.27,292.0,True
+222,Car Supplement,Beauty & Health,Supplements,264.61,137.96,False,274.02241992413013,137.96,3.0,True
+223,Sense Supplement,Beauty & Health,Supplements,57.85,32.82,False,58.8654264605062,32.82,492.0,True
+224,Voice Skincare,Beauty & Health,Skincare,23.12,13.38,False,23.10873989596997,13.38,49.0,True
+225,Discover Skincare,Beauty & Health,Skincare,939.11,348.19,False,960.5835774192838,348.19,129.0,True
+226,Recognize Skincare,Beauty & Health,Skincare,211.98,146.93,False,218.0682578959709,146.93,221.0,True
+227,Daughter Supplement,Beauty & Health,Supplements,192.19,129.37,False,195.60506438480573,129.37,301.0,True
+228,Over Skincare,Beauty & Health,Skincare,162.75,94.91,False,163.48990336524056,94.91,467.0,True
+229,Thus Skincare,Beauty & Health,Skincare,690.53,325.2,False,691.5817408645145,325.2,383.0,True
+230,Fight Supplement,Beauty & Health,Supplements,829.69,362.81,False,853.2213475453452,362.81,261.0,True
+231,Food Personal Care,Beauty & Health,Personal Care,410.59,301.66,False,403.0149052256267,301.66,44.0,True
+232,Partner Personal Care,Beauty & Health,Personal Care,71.83,39.91,False,73.96191404153438,39.91,59.0,True
+233,Say Haircare,Beauty & Health,Haircare,82.49,30.29,False,85.11124672630197,30.29,106.0,True
+234,House Skincare,Beauty & Health,Skincare,486.72,356.89,False,496.8041706457723,356.89,422.0,True
+235,Training Personal Care,Beauty & Health,Personal Care,370.09,218.16,False,370.7166499339401,218.16,477.0,True
+236,Down Haircare,Beauty & Health,Haircare,55.21,35.56,False,57.25206353686829,35.56,218.0,True
+237,Against Skincare,Beauty & Health,Skincare,335.88,253.44,False,,,,False
+238,Able Haircare,Beauty & Health,Haircare,192.17,70.24,False,195.33138217899543,70.24,35.0,True
+239,Increase Haircare,Beauty & Health,Haircare,517.8,395.89,False,513.2767911914649,395.89,386.0,True
+240,Military Supplement,Beauty & Health,Supplements,555.47,231.95,False,559.5904549138015,231.95,223.0,True
+241,Low Personal Care,Beauty & Health,Personal Care,306.12,220.38,False,314.02009751372174,220.38,398.0,True
+242,Huge Personal Care,Beauty & Health,Personal Care,166.1,79.41,False,166.72082330629962,79.41,281.0,True
+243,Son Personal Care,Beauty & Health,Personal Care,746.93,389.57,False,743.2310142920069,389.57,467.0,True
+244,Thus Supplement,Beauty & Health,Supplements,263.25,101.87,False,263.59553596437144,101.87,58.0,True
+245,Throughout Personal Care,Beauty & Health,Personal Care,11506.5,104.23,True,11782.864607644548,104.23,354.0,True
+246,Close Personal Care,Beauty & Health,Personal Care,574.84,237.52,False,586.1040411956446,237.52,339.0,True
+247,Good Haircare,Beauty & Health,Haircare,708.26,326.34,False,720.4388418401803,326.34,359.0,True
+248,Generation Haircare,Beauty & Health,Haircare,75.61,55.58,False,77.34200073942078,55.58,137.0,True
+249,Across Skincare,Beauty & Health,Skincare,682.27,293.31,False,700.1897679804321,293.31,129.0,True
+250,Discover Haircare,Beauty & Health,Haircare,8284.0,112.79,True,8289.76231790326,112.79,245.0,True
+251,College Fiction,Books & Media,Fiction,439.11,332.5,False,438.5662037766304,332.5,34.0,True
+252,Property Non-Fiction,Books & Media,Non-Fiction,274.43,180.49,False,284.53816276634205,180.49,443.0,True
+253,Happen Fiction,Books & Media,Fiction,621.95,347.91,False,611.3149295885618,347.91,232.0,True
+254,Them Children,Books & Media,Children,286.86,179.03,False,294.01053130998105,179.03,261.0,True
+255,Activity Non-Fiction,Books & Media,Non-Fiction,249.2,157.52,False,254.3217637255217,157.52,198.0,True
+256,Baby Non-Fiction,Books & Media,Non-Fiction,537.93,197.5,False,528.6649475061615,197.5,114.0,True
+257,Minute Children,Books & Media,Children,8.4,4.21,False,8.447087065071797,4.21,434.0,True
+258,Difference Fiction,Books & Media,Fiction,626.09,300.08,False,623.0426170675411,300.08,413.0,True
+259,Hundred Fiction,Books & Media,Fiction,533.22,352.88,False,,,,False
+260,Form Media,Books & Media,Media,619.66,308.31,False,620.0114628451765,308.31,185.0,True
+261,Especially Fiction,Books & Media,Fiction,429.63,235.83,False,430.3677909367672,235.83,54.0,True
+262,Case Media,Books & Media,Media,214.85,82.77,False,,,,False
+263,Way Media,Books & Media,Media,222.36,110.05,False,,,,False
+264,Include Non-Fiction,Books & Media,Non-Fiction,16.2,9.81,False,16.132979784023618,9.81,91.0,True
+265,Create Non-Fiction,Books & Media,Non-Fiction,839.64,394.64,False,835.8181286920219,394.64,321.0,True
+266,Feeling Non-Fiction,Books & Media,Non-Fiction,110.99,46.6,False,115.11271864828234,46.6,198.0,True
+267,Born Fiction,Books & Media,Fiction,253.7,110.91,False,251.73942900308705,110.91,371.0,True
+268,Machine Media,Books & Media,Media,23.79,11.06,False,24.40864114838546,11.06,214.0,True
+269,Note Non-Fiction,Books & Media,Non-Fiction,603.81,359.81,False,609.6404696459401,359.81,404.0,True
+270,Environmental Non-Fiction,Books & Media,Non-Fiction,34872.0,252.13,True,34712.37030278167,252.13,16.0,True
+271,Create Children,Books & Media,Children,756.22,308.09,False,791.2298781171068,308.09,283.0,True
+272,Pass Children,Books & Media,Children,5.69,3.58,False,5.65764802339789,3.58,422.0,True
+273,Ask Children,Books & Media,Children,560.24,289.19,False,553.4804706099255,289.19,85.0,True
+274,Product Children,Books & Media,Children,528.78,235.72,False,522.1918350771778,235.72,27.0,True
+275,Culture Children,Books & Media,Children,82.62,41.15,False,84.89791709102369,41.15,221.0,True
+276,Recently Non-Fiction,Books & Media,Non-Fiction,341.21,131.91,False,353.5896928579121,131.91,370.0,True
+277,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4,False,,,,False
+278,Page Fiction,Books & Media,Fiction,402.71,276.82,False,402.72249780617807,276.82,176.0,True
+279,Scientist Non-Fiction,Books & Media,Non-Fiction,226.81,166.06,False,236.71835430036407,166.06,209.0,True
+280,Start Fiction,Books & Media,Fiction,121.8,43.74,False,127.77174788694585,43.74,336.0,True
+281,Citizen Non-Fiction,Books & Media,Non-Fiction,146.98,90.63,False,152.74051616118035,90.63,59.0,True
+282,Discuss Fiction,Books & Media,Fiction,280.61,104.81,False,,,,False
+283,Strategy Children,Books & Media,Children,680.49,258.28,False,694.5366441600112,258.28,194.0,True
+284,Do Fiction,Books & Media,Fiction,228.9,138.3,False,231.57130743870235,138.3,303.0,True
+285,Foot Children,Books & Media,Children,667.54,317.07,False,694.8886446208359,317.07,124.0,True
+286,Give Non-Fiction,Books & Media,Non-Fiction,47.93,20.54,False,47.44226211581361,20.54,157.0,True
+287,Total Fiction,Books & Media,Fiction,754.14,370.71,False,752.1836547217557,370.71,336.0,True
+288,Beyond Media,Books & Media,Media,515.26,355.32,False,540.4669826600391,355.32,161.0,True
+289,Available Non-Fiction,Books & Media,Non-Fiction,635.36,370.15,False,656.2244440909111,370.15,28.0,True
+290,Administration Children,Books & Media,Children,908.96,374.06,False,913.953030157746,374.06,97.0,True
+291,Since Non-Fiction,Books & Media,Non-Fiction,19.78,13.68,False,19.91295960666735,13.68,281.0,True
+292,Store Fiction,Books & Media,Fiction,425.68,267.92,False,433.5011503369727,267.92,196.0,True
+293,Almost Non-Fiction,Books & Media,Non-Fiction,709.48,295.78,False,718.9819433090704,295.78,305.0,True
+294,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46,False,,,,False
+295,Among Media,Books & Media,Media,139.02,92.57,False,144.66394724894755,92.57,365.0,True
+296,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56,False,,,,False
+297,Want Media,Books & Media,Media,89.43,64.11,False,90.7301362239451,64.11,423.0,True
+298,Wait Media,Books & Media,Media,238.39,153.1,False,238.58870455995967,153.1,281.0,True
+299,Know Non-Fiction,Books & Media,Non-Fiction,725.08,274.72,False,760.083079620278,274.72,85.0,True
+300,Those Non-Fiction,Books & Media,Non-Fiction,133.29,87.08,False,133.26256617897812,87.08,0.0,True
